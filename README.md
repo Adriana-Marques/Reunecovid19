@@ -1,2 +1,2 @@
 # Reunecovid19
-Informações sobre Covid19 reunidas de Instituições nacionais e internacionais
+Informações sobre a Covid19 reunidas de Instituições Nacionais e Internacionais.
